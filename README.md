@@ -107,6 +107,31 @@ Integrates all modules into a complete ECG abnormality detection system.
 - FPGA-based edge AI systems
 
 ---
+---
+
+## Results
+
+### Simulation Waveform
+
+The simulation waveform verifies the functionality of the neuromorphic ECG abnormality detection hardware by illustrating the clock, ECG input, spike generation, and abnormality detection signals.
+
+![Simulation Waveform](results/simulation_waveform.png)
+
+---
+
+### ECG Detection Results
+
+The ECG detection results demonstrate the classification of normal and abnormal ECG samples using the implemented Spiking Neural Network (SNN). The spike count is compared against a predefined threshold to identify abnormal cardiac activity.
+
+![ECG Detection Results](results/ecg_detection_results.png)
+
+---
+
+### RTL Schematic
+
+The RTL schematic generated in Vivado represents the synthesized hardware architecture of the neuromorphic ECG abnormality detection system implemented on the FPGA.
+
+![RTL Schematic](results/rtl_schematic.png)
 
 ## Future Enhancements
 
