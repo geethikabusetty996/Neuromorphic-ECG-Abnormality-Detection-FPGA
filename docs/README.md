@@ -1,10 +1,12 @@
 # Documentation
 
-This folder contains all project documentation.
+This folder contains the documentation related to the project.
 
 ## Contents
 
-- Project Report
-- Presentation
+- Project Report (PDF)
 - Design Documents
-- User Guide
+- Implementation Details
+- User Guide (if available)
+
+The complete project report is available in this folder.
