@@ -1,9 +1,11 @@
 # Dataset
 
-This project uses ECG data from the MIT-BIH Arrhythmia Database.
+## Description
 
-## Dataset
+This project uses the **MIT-BIH Arrhythmia Database** for ECG signal analysis and abnormality detection.
 
-- MIT-BIH Arrhythmia Database
+The dataset is publicly available and can be downloaded from the PhysioNet repository:
 
-The dataset is not included in this repository. Please download it from the official PhysioNet website.
+https://physionet.org/content/mitdb/
+
+The complete dataset is not included in this repository due to its size and licensing considerations.
