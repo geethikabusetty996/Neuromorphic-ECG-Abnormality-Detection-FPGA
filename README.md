@@ -16,6 +16,7 @@ This project implements a real-time ECG abnormality detection system using neuro
 ---
 
 ## System Architecture
+![System Architecture](images/system_architecture.png)
 
 ```
 ECG Signal
