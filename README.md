@@ -6,6 +6,15 @@ This project implements a real-time ECG abnormality detection system using neuro
 
 ---
 
+## Hardware Platform
+
+- **FPGA Board:** PYNQ-Z2 (Xilinx Zynq-7020)
+- **Programming Language:** Verilog HDL
+- **Development Tool:** Xilinx Vivado
+- **Dataset:** MIT-BIH Arrhythmia Database
+- **Simulation:** Vivado Simulator
+
+
 ## Objectives
 
 - Design a neuromorphic ECG abnormality detection system using Verilog HDL.
