@@ -14,6 +14,17 @@ This project implements a real-time ECG abnormality detection system using neuro
 - **Dataset:** MIT-BIH Arrhythmia Database
 - **Simulation:** Vivado Simulator
 
+  ## Technologies Used
+
+- Verilog HDL
+- Xilinx Vivado
+- PYNQ-Z2 FPGA
+- Neuromorphic Computing
+- Spiking Neural Networks (SNN)
+- Leaky Integrate-and-Fire (LIF) Neuron
+- MIT-BIH Arrhythmia Database
+---
+
 
 ## Objectives
 
